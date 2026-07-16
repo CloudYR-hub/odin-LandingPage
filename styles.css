@@ -129,7 +129,7 @@ p {
   border-radius: 5px;
   width: 100px;
   height: 25px;
-  outline: auto;
+  outline: solid 2px;
 }
 .footer {
   background-color: #1f2937;
